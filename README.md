@@ -32,3 +32,7 @@ make
 ```
 ros2 launch pico_mpu9250_ros2 mpu9250_i2c.launch.py 
 ```
+
+# LICENSE
+This repository is open-sourced under the Apache-2.0 license. See the LICENSE file for details.
+
